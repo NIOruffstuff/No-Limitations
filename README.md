@@ -1,2 +1,1 @@
-# No-Limitations
-Here are projects made by me and others that have no limitations on copyright.
+note - Everyone who contributed to these projects is not responsible for anything you modify.
